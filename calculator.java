@@ -15,6 +15,7 @@ class calculator
    
     public static void main(String[] args) {
         calculator calc= new calculator();
+        
 
 float operand_1=10;
      float operand_2=5;
@@ -35,6 +36,8 @@ float operand_1=10;
 
     float div_result=calc.division(operand_1,operand_2);
     System.out.println("result of division:"+div_result);
+   
+
 
  
    
